@@ -1,1 +1,0 @@
-oefissobjfadkpwaklsd vskpf[salm;ckp]
