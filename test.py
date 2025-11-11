@@ -14,3 +14,5 @@ plt.figure()
 plt.plot(x,y)
 
 plt.savefig('blah')
+
+plt.show()
