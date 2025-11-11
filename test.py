@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 x = np.linspace(0,10,100)
 
-y = x**2 + 1
+y = x**2
 
 plt.figure()
 
